@@ -1,6 +1,6 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DevMarotti/PHP-Agenda)
-![GitHub language count](https://img.shields.io/github/languages/count/DevMarotti/PHP-Agenda)
 ![GitHub top language](https://img.shields.io/github/languages/top/DevMarotti/PHP-Agenda?logo=PHP)
+![GitHub language count](https://img.shields.io/github/languages/count/DevMarotti/PHP-Agenda)
+![GitHub repo size](https://img.shields.io/github/repo-size/DevMarotti/PHP-Agenda)
 ![GitHub](https://img.shields.io/github/license/DevMarotti/PHP-Agenda)
 
 # PHP :: Agenda de Contatos
